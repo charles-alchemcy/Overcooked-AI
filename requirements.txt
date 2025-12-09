@@ -33,7 +33,7 @@ hydra-core @ git+git://github.com/facebookresearch/hydra@e381f5414c6b1b2bf604117
 idna==2.10
 imageio==2.9.0
 imageio-ffmpeg==0.4.4
-importlib-metadata==3.10.1
+importlib-metadata==3.10.2
 importlib-resources==5.1.2
 ipykernel==5.5.5
 ipython==7.24.1

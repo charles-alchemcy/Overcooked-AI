@@ -17,4 +17,3 @@ with open('../overcooked_ai_py/data/human_data/clean_test_trials.pickle', 'rb') 
     print(content)
     # content.to_csv("clean_test_trials.csv", mode='w', header=True)
 
-
